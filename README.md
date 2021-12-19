@@ -25,6 +25,6 @@ Necessary files for running the scripts in SVM_Scripts can be found in SVM_Data_
   
   **svm_rfe.py** - recursive feature elimination svm - used to remove unnecessary features.
   
-  **svm_vssrfe.py** - variable step size recursive feature elimination - an even more efficient method for feature elimination.
+  **svm_vssrfe.py** - variable step size recursive feature elimination - a more efficient method for feature elimination.
   
-  **comparison_plots.py** - plot to compare the different performance between feature selectors and classifiers.
+  **comparison_plots.py** - plot to compare the performance between feature selectors and classifiers.
