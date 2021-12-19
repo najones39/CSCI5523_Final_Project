@@ -21,7 +21,7 @@ Necessary files for running the scripts in SVM_Scripts can be found in SVM_Data_
   
   **Random_Forest.py** - comparison method of classification.
   
-  **linear_svm.py** - linear kernal for svm model **warning** takes a very long time to run.
+  **linear_svm.py** - linear kernal for svm model **warning:** takes a very long time to run.
   
   **svm_rfe.py** - recursive feature elimination svm - used to remove unnecessary features.
   
