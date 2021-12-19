@@ -12,11 +12,12 @@ Li Z, Xie W, Liu T (2018) Efficient feature selection and classification for mic
 
 
 Necessary files for running the scripts in SVM_Scripts can be found in SVM_Data_Files.  Here is a description of the functions of the scripts:
-svm_data_preprocessing.py - used to preprocess and balance the data
-feature_selector.py - used to select which features are used for classification
-mRMR.py - alternative feature selection method
-Random_Forest.py - comparison method of classification
-linear_svm.py - linear kernal for svm model *warning* takes a very long time to run
-svm_rfe.py - recursive feature elimination svm - used to remove unnecessary features
-svm_vssrfe.py - variable step size recursive feature elimination - an even more efficient method for feature elimination
-comparison_plots.py - plot to compare the different performance between feature selectors and classifiers
+
+**svm_data_preprocessing.py** - used to preprocess and balance the data
+**feature_selector.py** - used to select which features are used for classification
+**mRMR.py** - alternative feature selection method
+**Random_Forest.py** - comparison method of classification
+**linear_svm.py** - linear kernal for svm model *warning* takes a very long time to run
+**svm_rfe.py** - recursive feature elimination svm - used to remove unnecessary features
+**svm_vssrfe.py** - variable step size recursive feature elimination - an even more efficient method for feature elimination
+**comparison_plots.py** - plot to compare the different performance between feature selectors and classifiers
